@@ -70,4 +70,4 @@ If the driver JAR has another name, replace it in both commands. `src` is includ
 `db.properties` contains local credentials. Do not commit a real database password to a public repository. Before publishing, replace it with a placeholder and keep your real credentials private.
 
 ## Author
-Kovid Gupta
+Harshit Kumar Vyas
