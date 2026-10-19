@@ -62,4 +62,4 @@ Run `bin/shutdown.bat` from the Tomcat folder. Closing the browser tab does not 
 - The `target/` directory is generated during the build and usually does not need to be uploaded to GitHub.
 
 ## Author
-Kovid Gupta
+Harshit Kumar Vyas
