@@ -84,4 +84,4 @@ This is an educational example with addition and subtraction only. It does not i
 
 ## Author
 
-Kovid Gupta
+Harshit Kumar Vyas
