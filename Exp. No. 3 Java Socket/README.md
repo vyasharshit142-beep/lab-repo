@@ -88,4 +88,4 @@ Server says: Hello Client!
 
 ## Author
 
-Kovid Gupta
+Harshit Kumar Vyas
