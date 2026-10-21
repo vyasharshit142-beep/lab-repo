@@ -62,4 +62,4 @@ Run `bin/shutdown.bat` from the Tomcat `bin` folder. Closing the browser tab doe
 
 ## Author
 
-Kovid Gupta
+Harshit Kumar Vyas
